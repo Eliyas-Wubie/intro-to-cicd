@@ -1,5 +1,5 @@
 function sayHi(name) { //test comment 2.1
-  return `Hello there ${name}`
+  return `Hello ${name}`
 }
 
 module.exports = sayHi
